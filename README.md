@@ -8,7 +8,7 @@ Drush autocomplete awesomeness as an oh-my-zsh plugin.
 
 ## Installation
 
-- Clone _drush\_zsh_
+- Clone _drush_
         `git clone git@github.com:kid-icarus/drush.git ~/.oh-my-zsh/plugins/drush`
 
 - Add 'drush' to plugins() in ~/.zshrc
