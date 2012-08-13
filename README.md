@@ -1,6 +1,6 @@
-# Drush zsh completion
+# Oh my drush
 
-Drush autocomplete awesomeness as an oh-my-zsh plugin.
+Drush tab completion as an oh-my-zsh plugin.
 
 ## Demo
 
@@ -8,8 +8,8 @@ Drush autocomplete awesomeness as an oh-my-zsh plugin.
 
 ## Installation
 
-- Clone _drush_
-        `git clone git@github.com:kid-icarus/drush.git ~/.oh-my-zsh/plugins/drush`
+- Clone _oh my drush_
+        `git clone git@github.com:kid-icarus/oh-my-drush.git ~/.oh-my-zsh/plugins/drush`
 
 - Add 'drush' to plugins() in ~/.zshrc
 
@@ -19,9 +19,9 @@ Drush autocomplete awesomeness as an oh-my-zsh plugin.
 
 ## Updates
 
-- Clone _drush_ via git
+- Clone _oh my drush_ via git
 
-        cd ~/.oh-my-zsh/plugins/drush && git pull origin master
+        cd ~/.oh-my-zsh/plugins/oh-my-drush && git pull origin master
 
 ## Requirements
 
